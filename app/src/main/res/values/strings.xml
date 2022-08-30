@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mailing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_settings">Settings</string>
+    <string name="news_title_hint">Введите заголовок для свежей новости</string>
+    <string name="news_content_hint">Заполните описание для новости</string>
+    <string name="news_title_label">Заголовок</string>
+    <string name="news_details_label">Детализация</string>
+    <string name="news_passed_label">Устаревшая?</string>
+    <string name="news_title">Все новости</string>
+
+</resources>
